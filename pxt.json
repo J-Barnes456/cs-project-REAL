@@ -1,0 +1,15 @@
+{
+    "name": "cs-project-real",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "dependencies": {
+        "device": "*"
+    },
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
